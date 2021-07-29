@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UserTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-29T17:30:48" hostname="SHCHERBAKOVA-YU" time="0.054">
+  <properties/>
+  <testcase name="РџСЂРѕРІРµСЂРєР° СЃРѕР·РґР°РЅРёСЏ РѕР±СЉРµРєС‚Р° СЃ РґРІСѓРјСЏ РїР°СЂР°РјРµС‚СЂР°РјРё" classname="UserTest" time="0.043"/>
+  <testcase name="РЈСЃС‚Р°РЅРѕРІРєР° email" classname="UserTest" time="0.005"/>
+  <testcase name="РЈСЃС‚Р°РЅРѕРІРєР° Р»РѕРіРёРЅР°" classname="UserTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
